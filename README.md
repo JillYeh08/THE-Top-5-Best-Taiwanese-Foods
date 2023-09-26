@@ -7,7 +7,7 @@
   3. Beef Noodle Soup
   4. 
 
-  ## 1. Large Intestine Vermicelli
+  1. ## Large Intestine Vermicelli
   
   ![Large Intestine Vermicelli Drawing]()
   
