@@ -1,6 +1,6 @@
 # The Top 5 Best Taiwanese Foods
 
-<div class="trigger"><a class="page-link" href="/tttt/"></div>
+ #### | by Jill Yeh |
 
 ## Table of Contents
 
