@@ -14,9 +14,9 @@
 
 ***
 
-  <a id="Large Intestine Vermicelli"> Large Intestine Vermicelli </a>
+ <h2> <a id="Large Intestine Vermicelli"> Large Intestine Vermicelli </a> </h2>
   
- <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
+   <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
   
   Out of all the best Taiwanese dishes, Large Intestine Vermicelli takes the number one spot for me. Though it may taste or feel off if you eat a bowl that isn't good, a well-made one is always the most comforting. The more popular version is Oyster Vermicelli, but as a disliker of most seafoods, I'd say the Large Intestine version is much tastier.
   
