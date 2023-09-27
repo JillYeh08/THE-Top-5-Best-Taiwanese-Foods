@@ -1,6 +1,6 @@
 # The Top 5 Best Taiwanese Foods
 
- #### | by Jill Yeh |
+ *by Jill Yeh*
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 ***
 
 
- ##  1. Large Intestine Vermicelli
+ ## Large Intestine Vermicelli
   
  <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="700" height="700">
   
@@ -21,13 +21,13 @@
   
   [A recipe for Large Instestine Vermicelli](http://www.eatinginabox.com/2015/03/da-chang-mian-xian-streetfood-challenge.html)
 
-  ##  2. Taiwanese Meatball
+  ## Taiwanese Meatball
 
 
-  ##  3. Beef Noodle Soup
+  ## Beef Noodle Soup
 
 
-  ##  4. Braised Pork Rice
+  ## Braised Pork Rice
 
 
-  ##  5. Qie Zai Noodles
+  ## Qie Zai Noodles
