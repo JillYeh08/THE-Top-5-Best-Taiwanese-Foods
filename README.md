@@ -42,7 +42,7 @@
 
  <h2> <a id="Braised Pork Rice"> Braised Pork Rice </a> </h2>
  
- The dish that reminds me of Taiwan the most is Braised Pork Rice. It’s the simplest dish out there and is often paired with yellow pickled radish slices and a braised egg. The best Braise Pork Rice is when there’s just the right amount of the braising liquid in the rice. It can’t be too liquidy or too dry.
+ The dish that reminds me of Taiwan the most is Braised Pork Rice. It’s the simplest dish out there and is often paired with yellow pickled radish slices and a braised egg. The best Braised Pork Rice is when there’s just the right amount of the braising liquid in the rice. It can’t be too liquidy or too dry.
 
    [Recipe for Braised Pork Rice](https://redhousespice.com/lu-rou-fan/) 
     
