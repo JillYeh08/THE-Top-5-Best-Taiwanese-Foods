@@ -1,7 +1,3 @@
-<style>
-body {background:#dbbba9;}
-</style>
-
 # Top 5 Staple Taiwanese Foods
 
 ## *by Jill Yeh*
