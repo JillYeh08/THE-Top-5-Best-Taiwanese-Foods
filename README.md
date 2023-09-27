@@ -45,12 +45,12 @@
  
  The dish that reminds me of Taiwan the most is Braised Pork Rice. It’s the simplest dish out there and is often paired with yellow pickled radish slices and a braised egg. The best Braise Pork Rice is when there’s just the right amount of the braising liquid in the rice. It can’t be too liquidy or too dry.
 
-    [Recipe for Braised Pork Rice](https://redhousespice.com/lu-rou-fan/)
-
+   [Recipe for Braised Pork Rice](https://redhousespice.com/lu-rou-fan/) 
+    
  <h2> <a id="Qie Zai Noodles"> Qie Zai Noodles </a> </h2>
  
  Qie Zai (pronounced tshik-a in Taiwanese) Noodles are a very simple yet fragrant egg noodle dish that can be eaten in soup or dry. The noodles are mixed with fried scallions and the soup is always light and a bit oily. No matter dry or in soup, the noodles are always topped with scallions and bean sprouts as garnish.
 
-    [The Difference Between Ta-a and Tshik-a Noodles](https://guide.michelin.com/tw/en/article/dining-out/taiwanese-ta-a-and-tshik-a-noodles)
-    *couldn't find any recipes in English
+   [The Difference Between Ta-a and Tshik-a Noodles](https://guide.michelin.com/tw/en/article/dining-out/taiwanese-ta-a-and-tshik-a-noodles)
+    *couldn't find any recipes in English :(
 
