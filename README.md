@@ -2,7 +2,6 @@
 
 ## *by Jill Yeh*
 
-***
 
 ## Table of Contents
 
@@ -28,7 +27,7 @@
 
    <img src="bawan.png" alt="Taiwanese Meatball Drawing" width="500" height="500">
 
-   The Taiwanese Meatball, or Bawan, is made up of meat and a few other flavorful ingredients bundled in a translucent, glutinous skin. But the real star of the show is the sauce, which is salty, a little sweet, and usually a bit spicy. I, for one, *love* eating anything chewy and glutinous, and biting through a Bawan gives you a mouth full of textures and flavors.
+   The Taiwanese Meatball, or bawan in Taiwanese, is made up of meat and a few other flavorful ingredients bundled in a sticky, glutinous bun-like wrap. But the real star of the show is the sauce, which is salty, a little sweet, and usually a bit spicy. I, for one, *love* anything chewy and glutinous, and biting through a Bawan just gives you a mouth full of textures.
 
 [Recipe for Taiwanese Meatballs](https://pengskitchen.blogspot.com/2014/08/taiwanese-meatballs-bawan.html)
 
@@ -54,3 +53,4 @@
    [The Difference Between Ta-a and Tshik-a Noodles](https://guide.michelin.com/tw/en/article/dining-out/taiwanese-ta-a-and-tshik-a-noodles)
     *couldn't find any recipes in English :(
 
+ > All images drawn by me
