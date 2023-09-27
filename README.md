@@ -16,7 +16,7 @@
 ***
 
  
- ##  Large Intestine Vermicelli
+ <h2> Large Intestine Vermicelli </h2>
   
  <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
   
