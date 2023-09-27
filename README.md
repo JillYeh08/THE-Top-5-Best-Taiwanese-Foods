@@ -15,8 +15,6 @@
 
 ***
 
-
-
  <h2> <a id="Large Intestine Vermicelli"> Large Intestine Vermicelli </a> </h2>
   
  <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
@@ -38,9 +36,25 @@
  <h2> <a id="Beef Noodle Soup"> Beef Noodle Soup </a> </h2>
 
    <img src="Beefnoodlesoup.png" alt="Beef Noodle Soup Drawing" width="500" height="500">
+   
+   Beef Noodle Soup is one of the most popular Taiwanese dishes out there. It’s exactly what it sounds like: noodles, braised beef, and bok choy in a spicy, soy sauce based soup. Certain restaurants will allow you to pick and choose which cuts of meat you’d like in your soup as well.
 
-
+   [Recipe for Beef Noodle Soup](https://www.foodandwine.com/taiwanese-beef-noodle-soup-7092445)
 
  <h2> <a id="Braised Pork Rice"> Braised Pork Rice </a> </h2>
 
+   <img src="" alt="Braised Pork Rice Drawing" width="500" height="500">
+
+    The dish that reminds me of Taiwan the most is Braised Pork Rice. It’s the simplest dish out there and is often paired with yellow pickled radish slices and a braised egg. The best Braise Pork Rice is when there’s just the right amount of the braising liquid in the rice. It can’t be too liquidy or too dry.
+
+    [Recipe for Braised Pork Rice](https://redhousespice.com/lu-rou-fan/)
+
  <h2> <a id="Qie Zai Noodles"> Qie Zai Noodles </a> </h2>
+ 
+<img src="" alt="Qie Zai Noodles Drawing" width="500" height="500">
+
+    Qie Zai (pronounced tshik-a in Taiwanese) Noodles are a very simple yet fragrant egg noodle dish that can be eaten in soup or dry. The noodles are mixed with fried scallions and the soup is always light and a bit oily. No matter dry or in soup, the noodles are always topped with scallions and bean sprouts as garnish.
+
+    [The Difference Between Ta-a and Tshik-a Noodles](https://guide.michelin.com/tw/en/article/dining-out/taiwanese-ta-a-and-tshik-a-noodles)
+    *couldn't find any recipes in English
+
