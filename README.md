@@ -16,7 +16,7 @@
 ***
 
 
- <h2><a id="Large Intestine Vermicelli">Large Intestine Vermicelli</a></h2>
+ <h2> <a id="Large Intestine Vermicelli"> Large Intestine Vermicelli </a> </h2>
   
  <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
   
