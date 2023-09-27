@@ -16,7 +16,7 @@
 ***
 
 
- <a id="Large Intestine Vermicelli"><h2>Large Intestine Vermicelli</h2></a>
+ <a id="Large Intestine Vermicelli"><h2> Large Intestine Vermicelli </h2></a>
   
  <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
   
@@ -25,7 +25,7 @@
   [Recipe for Large Instestine Vermicelli](http://www.eatinginabox.com/2015/03/da-chang-mian-xian-streetfood-challenge.html)
   
 
-<a id="Taiwanese Meatball"><h2>Taiwanese Meatball</h2></a>
+<a id="Taiwanese Meatball"><h2> Taiwanese Meatball </h2></a>
 
    <img src="bawan.png" alt="Taiwanese Meatball Drawing" width="500" height="500">
 
@@ -34,13 +34,13 @@
 [Recipe for Taiwanese Meatballs](https://pengskitchen.blogspot.com/2014/08/taiwanese-meatballs-bawan.html)
 
 
-<a id="Beef Noodle Soup"><h2>Beef Noodle Soup</h2></a>
+<a id="Beef Noodle Soup"><h2> Beef Noodle Soup </h2></a>
 
    <img src="Beefnoodlesoup.png" alt="Beef Noodle Soup Drawing" width="500" height="500">
 
 
 
-<a id="Braised Pork Rice"><h2>Braised Pork Rice</h2></a>
+<a id="Braised Pork Rice"><h2> Braised Pork Rice </h2></a>
 
- <a id="Qie Zai Noodles"><h2>Qie Zai Noodles</h2></a>
+ <a id="Qie Zai Noodles"><h2> Qie Zai Noodles </h2></a>
 
