@@ -1,9 +1,3 @@
-<style>
-    .brown {
-        background-color: #cfb799;
-    }
-</style>
-
 # Top 5 Staple Taiwanese Foods
 
 #### *by Jill Yeh*
