@@ -14,6 +14,8 @@
 
 ***
 
+##### Every time I visit Taiwan, I'm the most excited to eat authentic Taiwanese food that are both cheap and so good. I have many favorites but here are some of the simplest staple dishes that I think everyone should try!
+
  <h2> <a id="Large Intestine Vermicelli"> 1. Large Intestine Vermicelli </a> </h2>
   
    <img src="LargeIntestineVermicelli.png" alt="Large Intestine Vermicelli Drawing" width="500" height="500">
