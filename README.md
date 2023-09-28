@@ -23,7 +23,7 @@
   [Recipe for Large Instestine Vermicelli](http://www.eatinginabox.com/2015/03/da-chang-mian-xian-streetfood-challenge.html)
   
 
- <h2> <a id="Taiwanese Meatball"> Taiwanese Meatball </a> </h2>
+ <h2> <a id="Taiwanese Meatball"> 2. Taiwanese Meatball </a> </h2>
 
    <img src="bawan.png" alt="Taiwanese Meatball Drawing" width="500" height="500">
 
@@ -32,7 +32,7 @@
 [Recipe for Taiwanese Meatballs](https://pengskitchen.blogspot.com/2014/08/taiwanese-meatballs-bawan.html)
 
 
- <h2> <a id="Beef Noodle Soup"> Beef Noodle Soup </a> </h2>
+ <h2> <a id="Beef Noodle Soup"> 3. Beef Noodle Soup </a> </h2>
 
    <img src="Beefnoodlesoup.png" alt="Beef Noodle Soup Drawing" width="500" height="500">
    
@@ -40,7 +40,7 @@
 
    [Recipe for Beef Noodle Soup](https://www.foodandwine.com/taiwanese-beef-noodle-soup-7092445)
 
- <h2> <a id="Braised Pork Rice"> Braised Pork Rice </a> </h2>
+ <h2> <a id="Braised Pork Rice"> 4. Braised Pork Rice </a> </h2>
 
    <img src="Braisedporkrice.png" alt="Braised Pork Rice Drawing" width="500" height="500">
  
@@ -48,7 +48,7 @@
 
    [Recipe for Braised Pork Rice](https://redhousespice.com/lu-rou-fan/) 
     
- <h2> <a id="Qie Zai Noodles"> Qie Zai Noodles </a> </h2>
+ <h2> <a id="Qie Zai Noodles"> 5. Qie Zai Noodles </a> </h2>
 
    <img src="Qiezai.png" alt="Qie Zai Noodles Drawing" width="500" height="500">
  
@@ -58,4 +58,4 @@
     *couldn't find any recipes in English :(
 
 
- | All images drawn by me !! |
+ [ All images drawn by me !! ]
